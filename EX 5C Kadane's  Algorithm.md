@@ -19,8 +19,8 @@ To implement the program to find the maximum contiguous subarray.
 
 
 
-Developed by: HIRUTHIK SUDHAKAR
-Register Number:  212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number:  212223240036
 def maxSubArraySum(a,size):
     #####################  Add your Code here #############
     max_till_now = a[0]
