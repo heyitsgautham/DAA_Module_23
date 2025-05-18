@@ -19,8 +19,8 @@ To implement the program to finding the minimum number of jumps needed to reach 
 
 
 
-Developed by: HIRUTHIK SUDHAKAR
-Register Number:  212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number:  212223240036
 def minJumps(arr, l, h):
     ###########   Add your code here ###########
     if (h == l):
