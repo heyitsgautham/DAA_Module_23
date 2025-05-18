@@ -20,8 +20,8 @@ Create a python function to compute the fewest number of coins that we need to m
 
 .
 
-Developed by: HIRUTHIK SUDHAKAR
-Register Number:  212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number:  212223240036
 class Solution(object):
    def coinChange(self, coins, amount):
        ####################      Add your Code Here ###########
